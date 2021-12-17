@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gautamsagarnsit
-- 👀 I’m interested in Machine Learning, Computer Vision and NLP
-- 🌱 I’m currently learning NLP
+- 👀 I’m interested in Machine Learning and Multimodal deep learning
+- 🌱 I’m currently learning systems programming
 - 💞️ I’m looking to collaborate on projects in above mentioned fields
 - 📫 How to reach me: Email: gautamsagarnsit@gmail.com
 

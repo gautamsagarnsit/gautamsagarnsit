@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gautamsagarnsit
-- 👀 I’m interested in Machine Learning and Multimodal deep learning
+- 👀 I’m interested in Machine Learning and Software engineering
 - 🌱 I’m currently learning system programming in C, system design and Java
 - 💞️ I’m looking to collaborate on projects in above mentioned fields
 - 📫 How to reach me: Email: gautamsagarnsit@gmail.com
